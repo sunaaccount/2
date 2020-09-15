@@ -1,0 +1,9 @@
+/*css样式  制作用与当前*/
+.out{
+  font-size:20px;
+  display: flex;
+  height: 500px;
+  justify-content: center;
+  align-items: center;
+  color: #333;
+}
